@@ -26,7 +26,7 @@ review, and CI workflows.
 
 |---|------|--------|
 
-| HW1 | Real repository setup | ⬜ |
+| HW1 | Real repository setup | ✅ |
 
 | HW2 | Branch and PR discipline | ⬜ |
 
@@ -47,4 +47,13 @@ review, and CI workflows.
 git clone https://github.com/YevheniyaM/summer-school-3-day-homework.git
 
 cd summer-school-3-day-homework
+
+## Repository structure
+
+- `README.md` — project overview
+- `LICENSE` — MIT license
+- `.gitignore` — ignored files
+- `docs/` — Git notes
+- `RESOURCES.md` — learning resources
+- `homework/` — homework materials
 
