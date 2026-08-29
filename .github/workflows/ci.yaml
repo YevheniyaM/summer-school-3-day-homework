@@ -16,6 +16,6 @@ jobs:
       - name: Verify required files exist
         run: |
           test -f README.md
-          test -f THIS_FILE_DOES_NOT_EXIST
+          test -f LICENSE
           test -f .gitignore
           echo "All required files present"
