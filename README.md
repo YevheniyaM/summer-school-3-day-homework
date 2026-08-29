@@ -1,6 +1,6 @@
 \# Summer School — 3-Day Homework
 
-
+[![CI](https://github.com/YevheniyaM/summer-school-3-day-homework/actions/workflows/ci.yaml/badge.svg)](https://github.com/YevheniyaM/summer-school-3-day-homework/actions/workflows/ci.yaml)
 
 Coursework repository for the NULP Summer School Git/GitHub track.
 
