@@ -14,3 +14,5 @@ Useful resources for learning Git and GitHub.
 
 | GitHub Docs | GitHub documentation and guides |
 
+| GitHub Skills | Beginner → Advanced courses for learning GitHub |
+
